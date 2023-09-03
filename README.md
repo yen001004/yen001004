@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEC0C6,100:FB8DA0&height=300&section=header&text=Yewon%20Lee&desc=🫧&descSize=50&descAlign=80&descAlignY=58&fontSize=90&fontColor=313135)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEC0C6,100:FB8DA0&height=300&section=header&text=Yewon%20Lee&fontSize=90&fontColor=313135)
 
 ### 🐰 Introduce
 
