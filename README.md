@@ -15,7 +15,7 @@
 
 ### 💡 Experience
 
-- `Hyundai Softeer Bootcamp Frontend 2nd` - 2023.07 ~
+- `Hyundai Softeer Bootcamp Frontend 2nd` - 2023.07 ~ 2023.08
 - `Bemypet FE Intern` - 2023.03 ~ 2023.06
 - `42 Seoul Cadet` - 2022.03 ~ 2023.03
 - `42 Seoul La piscine` - 2022.01 ~ 2022.02
